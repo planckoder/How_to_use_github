@@ -16,5 +16,8 @@ int main()
 *	friend had commited some changes from github, and before pull it, you would first like to look to the changes. In this case, use t
 *	the operation "fetch".
 * Here is an example of the operation "fetch".
+*	The line above was first fetch from github, and then thanks to the window "View the branch history", I pulled this change to my 
+*	local project. Also, before pull it, you can view the details of the changes by right click on the repository. If you had added 
+*	code in your local file, this "view mode" helps you to choose, wich parts merge, and which not.
 */
 }
