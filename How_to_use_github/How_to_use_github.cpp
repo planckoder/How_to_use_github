@@ -15,5 +15,6 @@ int main()
 *	Now, let's talk about the operation "fetch", "récuperer". This operation is mostly usefull when you work in a team. Imagine your 
 *	friend had commited some changes from github, and before pull it, you would first like to look to the changes. In this case, use t
 *	the operation "fetch".
+* Here is an example of the operation "fetch".
 */
 }
