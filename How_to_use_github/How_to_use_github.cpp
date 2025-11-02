@@ -11,5 +11,9 @@ int main()
 *  
 *  Also, you can write your code directly in github, if you switch to the mode editor! If you do that, commit your changes in github, 
 *  and then in visual studio, press the arrow "pull", or "tirer" in French, to recover the changes in your file.
+* 
+*	Now, let's talk about the operation "fetch", "récuperer". This operation is mostly usefull when you work in a team. Imagine your 
+*	friend had commited some changes from github, and before pull it, you would first like to look to the changes. In this case, use t
+*	the operation "fetch".
 */
 }
